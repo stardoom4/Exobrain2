@@ -58,6 +58,7 @@ hb:
         - docs
         - blog
         - tutorials
+      pinned_posts_position: list
     giscus:
       repo: hbstack/theme
       repo_id: R_kgDOJP3qtA
