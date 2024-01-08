@@ -7,6 +7,7 @@ imports:
   # gallery modules.
   - path: github.com/hbstack/gallery
   - path: github.com/hbstack/gallery/modules/breadcrumb
+  - path: github.com/hbstack/theme-cards
 
   # syntax highlighting, see https://hbstack.dev/en/docs/modules/syntax-highlighting/.
   # - path: github.com/hbstack/syntax-highlighting/styles/github-dark
