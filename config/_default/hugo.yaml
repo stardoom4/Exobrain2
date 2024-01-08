@@ -1,6 +1,3 @@
-module:
-  imports:
-  - path: github.com/hbstack/theme-cards
 baseURL: https://theme.hbstack.dev/
 title: HB Starter Theme Template
 # Copyright, the {year} is the placeholder of this year.
